@@ -49,27 +49,26 @@ You must have npm installed globally in order to use this build environment.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-coming-soon/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/coming-soon/).
 
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
-
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-
 ## App description 
+
+To mitigate the impact of illegal dumping sites
+CLEANathon Team participated in Climathon, which is the largest climate action collective of its kind, uniting people in the thousands. Climathon powers a global wave of change-makers and innovators to help humanity achieve zero emissions in 20 to 30 years. CLEANathon Team identified one of the major problems that the Republic of Cyprus is facing, which is the illegal waste dumping. Thus, there is an accumulation of waste, un-recycled materials and unsightly. Has proposed, developing and working on the idea of tackling illegal dumping sites. 
+CLENathon Team members: 
+Efrosyni Antoniou holds a BSc in Agriculture from Aristotle University of Thessaloniki and an M.Sc. in Urban Environmental Management from Wageningen University (The Netherlands). She has 12 years of working experience as a researcher,  lecturer,  consultant and agriculturist in several international and local organizations, research centers and companies. Currently, she is employed by the Friends of the Earth Cyprus as a Project Coordinator, where she is dealing with multiple tasks, like management and implementation of projects, writing proposals, fundraising etc. 
+Iosef Boraei graduated from the university with a B.Sc. of Environmental Science and Technology (Cyprus University of Technology). He finished his Master of Water Technology (joint degree), provided jointly by Wetsus Academy, Wageningen University & Research, University of Twente and University of Groningen for novel environmentally friendly water process technology. He is also an external research assistant at the AQUA-Water Treatment Laboratory of Cyprus University of Technology since 2017. He has been volunteering for 5 years in Friends of the Earth Cyprus, where he is currently involved with campaigns and projects regarding climate change. 
+Beni Dibatia is a web and mobile app developer currently pursuing a four-year bachelor’s degree in Mobile and web application development at Ledra College in Nicosia, Cyprus.
+Antony John Mouzas is an entrepreneur in the environmental sector, with almost a decade of experience in renewable energy, sub-surface drilling, EMS, EIA, GIS, Organic Agricultural and Permaculture systems, Soil and Water Science, Urban Environment and Waste management. He has completed his BSc with Honors in Geography at UCLAN University and is currently perusing an MSc in Sustainable Energy Systems at the Open University of Cyprus. 
+Georgia Tzyrkalli graduate from National and Kapodistrian University of Athens with a B.Sc. of Physics Science and direction Environmental Physics and Meteorology.
+
+Climathon: https://climathon.climate-kic.org/en/solutions/mitigation-of-the-illegal-dumping-sites
+
+CLEANanthon team, decided to tackle this issue since citizens tend to dump various waste in illegal places around the city. Therefore, there is a problem regarding pollution, contamination, odor, unused materials that they could be re-cycled (circular economy). The idea is to use nudging by placing bins or other methods with informative logos in the illegal dumping areas so citizens will be indirectly educated and separate the waste even in these areas. Therefore, the materials will be provided to the stakeholders involved as a valuable product. This solution will mitigate the waste with the potential to either establish a waste collection spot or completely remove it depending on the needs of the area. Additionally, the illegal areas will be mapped in order to place them in collection routes and software such as apps will be used to inform and monitor the accumulation of waste.
+
+
 
 
 
 
 ## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
+Copyright 2019-2020  [BenDevs](http://bendevs.me/) license.
